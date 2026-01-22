@@ -1,3 +1,4 @@
+
 # TOPSIS-Based Selection of Pre-trained Conversational Models
 
 ## 1. Project Overview
@@ -156,5 +157,20 @@ By combining empirical proxy-based evaluation with multi-criteria decision analy
 
 ---
 
-## 11. Project Structure
+## 11. How to Run
 
+1. Install dependencies:
+```bash
+pip install transformers torch pandas numpy matplotlib
+```
+
+
+2. Run the notebook:
+
+pred_as2(1).ipynb
+
+
+## 12. Author
+Vani Mohindru (102303064)
+ 
+Methodology: Empirical evaluation + Multi-Criteria Decision Making
